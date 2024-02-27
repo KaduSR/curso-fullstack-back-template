@@ -19,9 +19,9 @@ private initMongoose(): void {
 
 private connectDataBase(): void {
   mongoose.connect('mongodb+srv://carlos847:r35pQODhra4OZa49@cluster0.ylamisr.mongodb.net/curso-javascript?retryWrites=true&w=majority&appName=Cluster0', {
-    useUnifiedTopology: true,
-    useNewUrlParser: true,
-    useCreateIndex: true,
+    // useUnifiedTopology: true,
+    // useNewUrlParser: true,
+    // useCreateIndex: true,
   });
 }
 
