@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "fullstack-back",
+=======
+  "name": "curso-fullstack-back",
+>>>>>>> 7ff99dfccd30b10002a44c3dc4f3af1fecaf9203
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
