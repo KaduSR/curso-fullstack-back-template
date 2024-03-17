@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "fullstack-back",
-=======
   "name": "curso-fullstack-back",
->>>>>>> 7ff99dfccd30b10002a44c3dc4f3af1fecaf9203
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -32,8 +28,7 @@
     "eslint-import-resolver-typescript": "^2.3.0",
     "eslint-plugin-prettier": "^3.3.0",
     "express": "^4.17.1",
-    "mongodb": "3.7",
-    "mongoose": "8.2.0",
+    "mongoose": "5.11.8",
     "prettier": "^2.2.1"
-  }
+  }  
 }
